@@ -8,13 +8,12 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyADtgjKNVCOlbukwcAWBBbmh5ehxxKq8Cg",
-  authDomain: "react-me-app.firebaseapp.com",
-  projectId: "react-me-app",
-  storageBucket: "react-me-app.appspot.com",
-  messagingSenderId: "203112278",
-  appId: "1:203112278:web:ba4a999ef2a2b315bc20f7",
-  measurementId: "G-M27R3MQVGW"
+  apiKey: "AIzaSyAokkGFK4v-IOjORRl3y5Jr5_MyX2GQ80s",
+  authDomain: "mans-footwear.firebaseapp.com",
+  projectId: "mans-footwear",
+  storageBucket: "mans-footwear.appspot.com",
+  messagingSenderId: "670268915237",
+  appId: "1:670268915237:web:cff1d004a026ba408549cc"
 };
 
 // Initialize Firebase

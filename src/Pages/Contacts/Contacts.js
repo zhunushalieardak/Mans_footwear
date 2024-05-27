@@ -36,7 +36,9 @@ function Contacts() {
             <Link className="Foot_link Foot_link__fb">
               <img src={facebook_ic} alt="" />
             </Link>
-            
+            <div className='Contact_card'>
+            <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ae6e14dd3be02147320ea82af5696df7de513eb1a7bb4574b3e0f0130c827d35f&amp;source=constructor" width={300} height={300} ></iframe>
+            </div>
           </div>
         </div>
       </ul>

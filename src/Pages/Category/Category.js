@@ -1,6 +1,6 @@
 import { useMatch } from "react-router-dom";
 import NotFound from "../NotFound/NotFound";
-import { useContext } from "react";
+import { Component, useContext } from "react";
 import { AppContext } from "../../App";
 import ProductList from "../../Components/ProductList/ProductList";
 
@@ -25,3 +25,5 @@ export default function Category() {
     </div>
   )
 }
+
+
