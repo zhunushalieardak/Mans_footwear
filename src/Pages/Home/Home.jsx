@@ -4,8 +4,9 @@ import "./Home.css";
 function Home() {
   return (
     <>
+    <aside>
       <CategoryList />
-
+      </aside>
     </>
   );
 }

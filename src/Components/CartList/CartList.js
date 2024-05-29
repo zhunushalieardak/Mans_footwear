@@ -3,6 +3,7 @@ import { AppContext } from "../../App";
 import { Link } from "react-router-dom";
 import { useContext } from "react";
 
+
 export default function CartList() {
   const { products, cart, setCart } = useContext(AppContext);
 
@@ -44,6 +45,7 @@ export default function CartList() {
 
   return (
     <div className="CartList">
+      
       {output}
     </div>
   )
