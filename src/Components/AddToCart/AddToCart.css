@@ -7,7 +7,14 @@
   border-radius: 5px;
   font-family: inherit;
   transition: all 100ms linear;
+  display: block;
+  max-width: calc(100% - 30px);
 }
 .AddToCart button:hover {
   background-color: rgb(115, 233, 115);
+}
+.AddToCart{
+  width: 100%;
+  max-width: 350px;
+  align-items: center;
 }

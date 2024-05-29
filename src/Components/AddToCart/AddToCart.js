@@ -15,7 +15,7 @@ export function AddToCart({ product }) {
   }
 
   return (
-    <div className="AddToCart">
+    <div className="AddToCart flex">
       <button onClick={onAddToCartClick}>Add to cart</button>
       {cart[product.id] ? cart[product.id] : 0}
     </div>

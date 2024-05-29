@@ -31,8 +31,28 @@
 .cartItem:hover img {
   filter: opacity(80%);
 }
-.cartItem i {
+.cart_close{
   cursor: pointer;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  display: block;
+}
+.cart_close::before,
+.cart_close::after{
+  content: '';
+  position: absolute;
+  background: #000;
+  width: 42px;
+  height: 5px;
+  border-radius: 15px;
+  transform: rotate(45deg);
+  top: 12px;
+  left: -6px;
+}
+.cart_close::after{
+  transform: rotate(-45deg);
+
 }
 .cartItem .inputs {
   display: flex;

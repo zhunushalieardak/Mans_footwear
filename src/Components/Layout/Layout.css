@@ -1,8 +1,6 @@
-aside {
-  width: 150px;
-}
+
 main{
-  width: calc(100% - 150px);
-  padding-left: 20px;
+  width: calc(100% - 90px);
+    padding-left: 76px;
 }
 

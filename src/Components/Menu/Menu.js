@@ -1,10 +1,10 @@
 import './Menu.css';
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function Menu() {
   return (
     <nav className='Menu'>
-      <ul className='flex'>
+      <ul className='Menu_flex'>
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -21,5 +21,4 @@ function Menu() {
     </nav>
   );
 }
-
-export default Menu;
+export default Menu; 

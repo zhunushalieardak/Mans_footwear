@@ -1,3 +1,22 @@
-.Contact_card{
-   display: flex;
+.Contacts .title-1{
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.content-list__item_1 p{
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 24px;
+}
+.Contacts iframe{
+    display: block;
+    margin-bottom: 20px;
+}
+.content-list__item_2{
+    margin-bottom: 20px;
+}
+.content-list__item_2 a{
+    display: inline-block;
+}
+.Contacts .title-2{
+    margin-bottom: 8px;
 }

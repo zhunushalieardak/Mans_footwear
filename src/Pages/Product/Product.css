@@ -1,0 +1,14 @@
+.ProductImg img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+.ProductTxt{
+    width: calc(100% - 320px);
+}
+.ProductTxt h1{
+    margin-bottom: 20px;
+}
+.ProductTxt p{
+    margin-bottom: 20px;
+}

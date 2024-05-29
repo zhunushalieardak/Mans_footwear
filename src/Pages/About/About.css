@@ -1,3 +1,19 @@
-.About_txt{
+.About_Txt{
+    color: #343434;
+    font-size: 40px;
+    margin-bottom: 20px;
     
+}
+
+.AboutImg{
+    width: 50%;
+    height: 0px;
+}
+
+.AboutTxt {
+    width: 110%;
+    height: 233px;
+    padding-left: 575px;
+    align-items: center;
+    color: rgb(83 83 83);
 }

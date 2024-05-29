@@ -20,7 +20,9 @@ export default function Category() {
 
   return (
     <div className="Category">
+      <div className="CategoryTxt">
       <h2>{category.name}</h2>
+      </div>
       <ProductList category={category} />
     </div>
   )

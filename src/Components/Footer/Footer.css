@@ -42,3 +42,15 @@ footer {
     font-size: 12px;
     opacity: 0.85;
 }
+
+
+.Footer_ul_txt{
+    width: 52%;
+    margin-left: 200px;
+    margin-top: -165px;
+   
+}
+
+.Footer_li{
+    margin-bottom: 20px;
+}
