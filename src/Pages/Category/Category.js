@@ -20,7 +20,7 @@ export default function Category() {
 
   return (
     <div className="Category">
-      <div className="CategoryTxt">
+      <div className="CategoryTxt_h">
       <h2>{category.name}</h2>
       </div>
       <ProductList category={category} />

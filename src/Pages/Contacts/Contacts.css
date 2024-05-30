@@ -1,11 +1,13 @@
 .Contacts .title-1{
     font-size: 36px;
     margin-bottom: 30px;
+    font-family: Times New Roman;
 }
 .content-list__item_1 p{
     margin-bottom: 20px;
     font-weight: 500;
     font-size: 24px;
+    font-family: Times New Roman;
 }
 .Contacts iframe{
     display: block;
@@ -16,7 +18,11 @@
 }
 .content-list__item_2 a{
     display: inline-block;
+    font-family: Times New Roman;
+    font-size: 20px;
 }
 .Contacts .title-2{
     margin-bottom: 8px;
+    font-family: Times New Roman;
+    font-size: 25px;
 }

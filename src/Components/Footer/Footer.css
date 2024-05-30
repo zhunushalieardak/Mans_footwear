@@ -4,9 +4,10 @@ footer {
 }
 
 .Foot_tit {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 500;
     padding-bottom: 15px;
+    font-family: Times New Roman;
 }
 
 .Foot_bot {
@@ -47,8 +48,9 @@ footer {
 .Footer_ul_txt{
     width: 52%;
     margin-left: 200px;
-    margin-top: -165px;
-   
+    margin-top: -188px;
+    font-family: Times New Roman;
+    font-size: 20px;
 }
 
 .Footer_li{

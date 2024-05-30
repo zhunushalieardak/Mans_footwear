@@ -2,7 +2,7 @@
     color: #343434;
     font-size: 40px;
     margin-bottom: 20px;
-    
+    font-family: Times New Roman;
 }
 
 .AboutImg{
@@ -16,4 +16,87 @@
     padding-left: 575px;
     align-items: center;
     color: rgb(83 83 83);
+    font-size: 26px;
+    font-family: Times New Roman;
+}
+
+.our .sec_tit {
+	margin-bottom: 64px;
+}
+
+.our_card {
+	width: calc((100% - 48px)/3);
+	border-radius: 12px;
+	background: #F9F9F7;
+	padding: 45px 35px 35px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.our_tit {
+	color: #280431;
+	font-size: 23px;
+	font-weight: 700;
+	line-height: 30px;
+	/* 125% */
+	letter-spacing: -0.72px;
+	padding-bottom: 24px;
+}
+
+.our_txt {
+	font-size: 18px;
+	line-height: 28px;
+	/* 155.556% */
+	padding-bottom: 32px;
+}
+
+.our_img {
+	width: 70px;
+	height: 70px;
+	border-radius: 50px;
+}
+
+.our_customer {
+	justify-content: flex-start;
+	border-top: 1px solid #D8DFD0;
+	padding-top: 32px;
+
+}
+
+.our_info {
+	padding-left: 20px;
+
+}
+
+.our_name {
+	color: #2C2F24;
+	/* font-family: DM Sans; */
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 24px;
+	display: block;
+}
+
+.our_address {
+	color: var(--neutral-06, #414536);
+	/* font-family: DM Sans; */
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+	/* 150% */
+}
+.sec_tit{
+	font-weight: 500;
+	font-size: 50px;
+	margin-top: 100px;
+	margin-bottom: 30px;
+	font-family: Times New Roman;
+	text-align: center;
+
+}
+.our_cards{
+	margin-bottom: 50px;
 }
