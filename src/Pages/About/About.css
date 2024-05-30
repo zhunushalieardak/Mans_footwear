@@ -27,7 +27,7 @@
 .our_card {
 	width: calc((100% - 48px)/3);
 	border-radius: 12px;
-	background: #F9F9F7;
+	background: #ebebeb;
 	padding: 45px 35px 35px;
 	display: flex;
 	flex-direction: column;
@@ -36,16 +36,17 @@
 
 .our_tit {
 	color: #280431;
-	font-size: 23px;
+	font-size: 29px;
 	font-weight: 700;
 	line-height: 30px;
 	/* 125% */
 	letter-spacing: -0.72px;
 	padding-bottom: 24px;
+	font-family: Times New Roman;
 }
 
 .our_txt {
-	font-size: 18px;
+	font-size: 21px;
 	line-height: 28px;
 	/* 155.556% */
 	padding-bottom: 32px;
@@ -71,8 +72,8 @@
 
 .our_name {
 	color: #2C2F24;
-	/* font-family: DM Sans; */
-	font-size: 16px;
+	font-family: Times New Roman;
+	font-size: 20px;
 	font-style: normal;
 	font-weight: 700;
 	line-height: 24px;
@@ -81,8 +82,8 @@
 
 .our_address {
 	color: var(--neutral-06, #414536);
-	/* font-family: DM Sans; */
-	font-size: 16px;
+	font-family: Times New Roman;
+	font-size: 20px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 24px;

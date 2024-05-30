@@ -24,7 +24,7 @@ function Contacts() {
         <li className="content-list__item_2">
           <h2 className="title-2">Email</h2>
           <p>
-            <Link to=" zunusalievardak@gmail.com">zunusalievardak@gmail.com</Link>
+            <a href="mailto:zunusalievardak@gmail.com">zunusalievardak@gmail.com</a>
           </p>
         </li>
         <div className="Foot_links-wrap">

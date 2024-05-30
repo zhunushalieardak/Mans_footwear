@@ -57,11 +57,12 @@ function Home() {
                 </div>
               </div>
             </div>
-
           </div>
 
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit necessitatibus eligendi iure sunt assumenda libero deserunt, adipisci facere obcaecati ratione nihil unde, minima eveniet quia harum quis similique et debitis ipsam quas aliquam repellat, nemo cum. Officia minus dolorum iure similique animi, eos libero natus delectus itaque quis facere voluptas. Omnis, at ratione. Dolorem cum ipsum officiis distinctio facilis, saepe hic vitae excepturi sequi. Inventore amet totam officia minima nihil tempora vel, itaque quas corrupti libero facere similique reprehenderit vero dolorum harum commodi ipsam excepturi officiis provident eaque. Impedit quidem voluptatibus, neque voluptate nulla cum eos quas numquam. Doloremque, odio nisi eius quis et, beatae accusamus modi magnam optio eveniet dolorum provident, consequatur iusto harum. Nam quos dolores doloribus ea quaerat molestias doloremque. Repellat provident atque voluptatum, animi rem quam quae quibusdam itaque distinctio maiores alias est ut exercitationem porro perspiciatis labore corrupti hic impedit velit, minima nesciunt quas dolorum ducimus veritatis. Officia fugiat illum obcaecati fugit, vel iste in earum placeat. Dignissimos nisi ad consequuntur ut veritatis doloribus excepturi autem eum nulla quo ab voluptates alias corporis facere suscipit, incidunt in repellendus blanditiis non animi accusamus illum! Alias assumenda ullam dolorum enim aliquid voluptate incidunt accusantium, beatae corrupti impedit.</p>
-
+          <section className="">
+            .container_
+          </section>
+        
         </div>
       </section>
 

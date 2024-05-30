@@ -10,12 +10,16 @@
   display: block;
   max-width: calc(100% - 30px);
 }
+
 .AddToCart button:hover {
   background-color: rgb(115, 233, 115);
-  
+
 }
-.AddToCart{
+
+.AddToCart {
   width: 100%;
   max-width: 350px;
   align-items: center;
+  font-family: Times New Roman;
+  font-size: 20px;
 }

@@ -18,15 +18,15 @@ function About() {
 
         <div className="About_our_card">
           <div className="container_our_card">
-            <h2 class="sec_tit">What Our Customers Say</h2>
+            <h2 class="sec_tit">Feedback from our clients</h2>
             <div class="our_cards flex">
               <div class="our_card">
                 <div>
                   <h4 class="our_tit">
-                    “The best restaurant”
+                    “Our quality of shouse ”
                   </h4>
                   <p class="our_txt">
-                    "An excellent online store with a large selection of men's shoes. I found everything I needed here: from classic shoes to sports sneakers. The quality of the goods is excellent, fast delivery and friendly service. I will order here again."
+                  “Very pleased with the quality of the shoes! The material is durable and looks expensive, the seams are neat, they don’t rub anything. The shoes are comfortable and fit perfectly on the feet. I recommend!”
 
                   </p>
                 </div>
@@ -43,7 +43,7 @@ function About() {
 
               <div class="our_card">
                 <div>
-                  <h4 class="our_tit">“Simply delicious”
+                  <h4 class="our_tit">“About our store”
                   </h4>
                   <p class="our_txt">"I am very pleased with the purchase in this online store! A wide range of shoes for every taste and budget. The prices are reasonable, there are often promotions and discounts. The shoes arrived quickly and fully corresponded to the description on the website. I recommend it to everyone."
                   </p>
@@ -61,16 +61,16 @@ function About() {
 
               <div class="our_card">
                 <div>
-                  <h4 class="our_tit">“One of a kind restaurant”
+                  <h4 class="our_tit">“About our delivery”
                   </h4>
                   <p class="our_txt">
-                    "Buying men's shoes in this store was a great experience. User-friendly website interface, detailed product descriptions and real photos. Delivery on time, high quality shoes. Thank you for the excellent service, I will definitely order again."
+                  "The delivery of the shoes was excellent. The parcel arrived on time, the packaging was in good condition. The shoes fully corresponded to the description. Very satisfied!"
 
                   </p>
                 </div>
                 <div class="our_customer flex">
                   <div class="our_img">
-                    <img src="https://ogletree.com/app/uploads/people/abitbol-alexandre-2023-04.jpg" alt="" />
+                    <img src="https://politics.princeton.edu/sites/default/files/styles/square/public/images/p-5.jpeg?h=87dbaab7&itok=ub6jAL5Q" alt="" />
                   </div>
                   <div class="our_info">
                     <span class="our_name"> <b>David Wilson</b></span>
